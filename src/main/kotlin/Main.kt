@@ -1,5 +1,5 @@
-import uniffi.ldk_node.Builder
-import uniffi.ldk_node.Node
+import org.ldk.ldknode.Builder
+import org.ldk.ldknode.Node
 
 fun main() {
     println("Hello World!")

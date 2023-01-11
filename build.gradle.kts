@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.ldk:ldk-node:0.0.1")
+    implementation("org.ldk:ldk-node:0.0.2")
     testImplementation(kotlin("test"))
 }
 
